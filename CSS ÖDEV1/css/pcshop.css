@@ -1,0 +1,30 @@
+/* class -> .text-red{} */
+/* id -> #id-bilgisi {} */
+
+body{
+    margin: 0 auto;
+    text-align: center;
+    width: 960px;
+    background-image:url("background.jpg") ;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #c53333;
+}
+
+h1 {
+    font-size: 40px;
+    
+}
+h2{
+    font-size: 30px;
+}
+ul.b {
+    list-style-position: inside;
+}
+img{
+    height: 300px;
+}
+    
+p {
+    font-size: 25px;}
